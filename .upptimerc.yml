@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   
   introTitle: "Check the status of the LingoPractices servers in real time"
-  introMessage: Here you can check the status of the LingoPractices website, backend server, and telegram bot. If there's some outage, don't worry: we are already informed and are busy fixing the issues.
+  introMessage: "Here you can check the status of the LingoPractices website, backend server, and telegram bot. If there's some outage, don't worry: we are already informed and are busy fixing the issues."
   navbar:
     - title: Status
       href: /
