@@ -6,7 +6,7 @@ sites:
   - name: Dev Backend Server
     url: https://dev-api-atvq9.ondigitalocean.app/health
   - name: Main Backend Server
-    url: https://api-prod-lkxvr.ondigitalocean.app/api
+    url: https://api-prod-lkxvr.ondigitalocean.app/health
   - name: Public Website
     url: https://lingopractices.com/
   - name: Telegram Bot
