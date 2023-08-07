@@ -13,7 +13,7 @@ sites:
     url: https://tg.lingopractices.com/
 
 status-website:
-  baseUrl: /lingopractices  # where "repo" is your repository name
+  baseUrl: /  
   name: LingoPractices Status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   
