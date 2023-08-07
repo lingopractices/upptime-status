@@ -42,18 +42,20 @@
     "url": "https://lingopractices.com/",
     "icon": "https://icons.duckduckgo.com/ip3/lingopractices.com.ico",
     "slug": "public-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 139,
-    "timeWeek": 204,
-    "timeMonth": 204,
-    "timeYear": 204,
-    "dailyMinutesDown": {}
+    "time": 216,
+    "timeDay": 187,
+    "timeWeek": 216,
+    "timeMonth": 216,
+    "timeYear": 216,
+    "dailyMinutesDown": {
+      "2023-08-07": 0
+    }
   },
   {
     "name": "Telegram Bot",
