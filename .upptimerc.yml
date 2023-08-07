@@ -11,6 +11,8 @@ sites:
     url: https://lingopractices.com/
   - name: Telegram Bot
     url: https://tg.lingopractices.com/
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   baseUrl: /lingopractices  # where "repo" is your repository name
