@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 147,
-    "timeWeek": 420,
-    "timeMonth": 444,
-    "timeYear": 444,
+    "time": 453,
+    "timeDay": 580,
+    "timeWeek": 425,
+    "timeMonth": 453,
+    "timeYear": 453,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 438,
-    "timeDay": 159,
-    "timeWeek": 414,
-    "timeMonth": 438,
-    "timeYear": 438,
+    "time": 447,
+    "timeDay": 573,
+    "timeWeek": 426,
+    "timeMonth": 447,
+    "timeYear": 447,
     "dailyMinutesDown": {
       "2023-08-01": 4
     }
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lingopractices.com.ico",
     "slug": "public-website",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 201,
-    "timeDay": 141,
-    "timeWeek": 184,
-    "timeMonth": 201,
-    "timeYear": 201,
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 199,
+    "timeDay": 176,
+    "timeWeek": 183,
+    "timeMonth": 199,
+    "timeYear": 199,
     "dailyMinutesDown": {
       "2023-08-07": 22
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 113,
-    "timeWeek": 132,
-    "timeMonth": 151,
-    "timeYear": 151,
+    "time": 150,
+    "timeDay": 132,
+    "timeWeek": 128,
+    "timeMonth": 150,
+    "timeYear": 150,
     "dailyMinutesDown": {}
   }
 ]
