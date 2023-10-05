@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-api-ntkje.ondigitalocean.app.ico",
     "slug": "dev-backend-server",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
-    "time": 443,
-    "timeDay": 354,
-    "timeWeek": 401,
-    "timeMonth": 449,
-    "timeYear": 443,
+    "uptimeYear": "99.70%",
+    "time": 445,
+    "timeDay": 597,
+    "timeWeek": 430,
+    "timeMonth": 452,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2023-08-18": 280
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 437,
-    "timeDay": 374,
-    "timeWeek": 397,
-    "timeMonth": 439,
-    "timeYear": 437,
+    "time": 439,
+    "timeDay": 578,
+    "timeWeek": 430,
+    "timeMonth": 441,
+    "timeYear": 439,
     "dailyMinutesDown": {
       "2023-08-01": 4
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 201,
-    "timeDay": 164,
+    "timeDay": 174,
     "timeWeek": 213,
-    "timeMonth": 231,
+    "timeMonth": 229,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2023-08-07": 22
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
-    "timeDay": 105,
-    "timeWeek": 133,
-    "timeMonth": 146,
+    "timeDay": 124,
+    "timeWeek": 132,
+    "timeMonth": 145,
     "timeYear": 154,
     "dailyMinutesDown": {}
   }
