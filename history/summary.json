@@ -24,7 +24,7 @@
     "url": "https://api-prod-lkxvr.ondigitalocean.app/health",
     "icon": "https://icons.duckduckgo.com/ip3/api-prod-lkxvr.ondigitalocean.app.ico",
     "slug": "main-backend-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "98.74%",
     "uptimeWeek": "99.82%",
