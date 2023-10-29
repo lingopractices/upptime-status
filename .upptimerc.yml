@@ -4,9 +4,9 @@ repo: upptime-status # The name of this repository
 
 sites:
   - name: Dev Backend Server
-    url: https://dev-api-ntkje.ondigitalocean.app/health
+    url: https://dev.api.lingopractices.com/health
   - name: Main Backend Server
-    url: https://api-prod-lkxvr.ondigitalocean.app/health
+    url: https://api.lingopractices.com/health
   - name: Public Website
     url: https://lingopractices.com/
   - name: Telegram Bot
