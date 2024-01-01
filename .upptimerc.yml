@@ -4,11 +4,11 @@ repo: upptime-status # The name of this repository
 
 sites:
   - name: Dev Backend Server
-    url: https://dev.api.lingopractices.com/health
+    url: https://dev.api.lingopraxis.com/health
   - name: Main Backend Server
-    url: https://api.lingopractices.com/health
+    url: https://api.lingopraxis.com/health
   - name: Public Website
-    url: https://lingopractices.com/
+    url: https://lingopraxis.com/
   - name: Telegram Bot
     url: https://tg.lingopractices.com/
 
