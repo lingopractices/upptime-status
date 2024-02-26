@@ -4,7 +4,7 @@
     "url": "https://dev.api.lingopraxis.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/dev.api.lingopraxis.com.ico",
     "slug": "dev-backend-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 453,
     "timeYear": 568,
     "dailyMinutesDown": {
+      "2024-02-26": 0,
       "2024-01-26": 10,
       "2024-01-18": 24,
       "2024-01-15": 7,
