@@ -1,7 +1,7 @@
 url: https://api.lingopraxis.com/health
-status: up
-code: 200
-responseTime: 284
-lastUpdated: 2024-04-19T14:52:53.664Z
+status: down
+code: 504
+responseTime: 10364
+lastUpdated: 2024-04-19T17:52:02.383Z
 startTime: 2023-08-01T14:29:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
